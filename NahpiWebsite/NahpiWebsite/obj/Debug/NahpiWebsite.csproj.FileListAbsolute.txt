@@ -1,0 +1,14 @@
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\bin\Debug\NahpiWebsite.exe.config
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.csprojResolveAssemblyReference.cache
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.Properties.Resources.resources
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.csproj.GenerateResource.Cache
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\bin\Debug\NahpiWebsite.exe
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\bin\Debug\NahpiWebsite.pdb
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.exe
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.pdb
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.Forms.TemplateForm.resources
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.Forms.paymentForm.resources
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.Forms.PaymentPage.resources
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.Forms.StudentForm.resources
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.Forms.StudentFormInDGV.resources
+C:\Users\KONGNYUY\Desktop\NAHPI WEBSITE\NahpiWebsite\NahpiWebsite\obj\Debug\NahpiWebsite.Forms.DepartmentDropDown.resources
